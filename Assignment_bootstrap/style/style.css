@@ -1,0 +1,13 @@
+body,html{
+    background-color: blue;
+}
+div{
+    background-color: crimson;
+}
+
+.redColor {
+    background-color: rgb(43, 189, 79);
+}
+.row{
+    background-color: rgb(178, 22, 87);
+}
